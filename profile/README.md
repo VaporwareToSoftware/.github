@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:697BFF,100:BBB7EF&height=200&section=header&text=Vaporware%20To%20Software&fontSize=30&fontColor=ffffff&fontAlignY=20&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=697BFF&height=200&section=header&text=Vaporware%20To%20Software&fontSize=30&fontColor=ffffff&fontAlignY=20&fontAlign=80)
 <div align="center">
 <h4>아주대학교 인공지능융합전공 2022-2 AI캡스톤디자인 2</h4>
 </div>
