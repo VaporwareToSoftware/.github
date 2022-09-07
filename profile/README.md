@@ -1,6 +1,7 @@
-## Vaporware To Software
+![header](https://capsule-render.vercel.app/api?type=wave&color=#697BFF&height=300&section=header&text=capsule%20render&fontSize=90)
+# Vaporware To Software
+## 아주대학교 인공지능융합전공 2022-2 AI캡스톤디자인 2
 
-@jiheon788
 
 <!--
 
