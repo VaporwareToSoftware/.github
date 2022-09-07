@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:697BFF,100:BBB7EF&height=200&section=header&text=Vaporware%20To%20Software&fontSize=40&fontColor=ffffff&fontAlignY=20&fontAlign=70)
 <div align="center">
-## 아주대학교 인공지능융합전공 2022-2 AI캡스톤디자인 2
+<h1>아주대학교 인공지능융합전공 2022-2 AI캡스톤디자인 2</h1>
 </div>
 
 
