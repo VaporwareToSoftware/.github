@@ -16,11 +16,9 @@
 6. 변경사항이 **무엇**인지 명확히 작성
 
 > 예시1
-> 
 > dosc: Create .gitmessage.txt
 
 > 예시2
-> 
 > feat: 로그인 기능 구현 
 
 ![image](https://user-images.githubusercontent.com/90181028/189523617-74cd7ab7-8371-4416-9603-c571a650177b.png)
