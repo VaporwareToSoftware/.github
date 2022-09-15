@@ -3,6 +3,12 @@
 </br>
 </br>
 
+<div align='center'>
+
+![V2S-stacks](https://user-images.githubusercontent.com/90181028/190391689-c2f4732d-4daf-434e-8c5b-4dd3cf2bbef5.png)
+
+</div>
+
 
 # 📝 Commit Message Guidelines
 
