@@ -5,7 +5,8 @@
 
 <div align='center'>
 
-![V2S-stacks](https://user-images.githubusercontent.com/90181028/190391689-c2f4732d-4daf-434e-8c5b-4dd3cf2bbef5.png)
+![V2S-stacks](https://user-images.githubusercontent.com/90181028/190392241-77060898-d9e4-4343-ad0a-eb661578f02d.png)
+
 
 </div>
 
