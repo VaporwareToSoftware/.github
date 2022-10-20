@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=697BFF&height=200&section=header&text=Vaporware%20To%20Software&fontSize=30&fontColor=ffffff&fontAlignY=20&fontAlign=75)
-### 아주대학교 인공지능융합전공 2022-2 AI캡스톤디자인 2
+
 </br>
 </br>
 
 <div align='center'>
-
-[<img src="https://user-images.githubusercontent.com/90181028/191492233-fa5fb50a-3425-493e-92a6-1ef93e233bb0.png" width=50px>](https://www.notion.so/Vaporware-To-Software-e3d17be84ce448258f7ef78bf89ad45e)
 
 
 ![V2S-stacks](https://user-images.githubusercontent.com/90181028/190392241-77060898-d9e4-4343-ad0a-eb661578f02d.png)
